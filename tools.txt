@@ -1,0 +1,7 @@
+USED TOOLS & LIBRARIES
+· react-icons
+· react-paginate
+· styled-components
+· axios
+· styled-reset
+· Google Fonts
